@@ -1,4 +1,4 @@
-# PSoC 5LP Microcontroller Exploration for Two-Motor Drone Project
+# PSoC-5LP Microcontroller Exploration for Two-Motor Drone Project
 
 This repository contains the codes and circuit designs developed during my summer internship. The primary focus was to explore the PSoC 5LP microcontroller from Cypress Semiconductor using PSoC Creator 4.4, with the goal of building and understanding a two-motor drone.
 
